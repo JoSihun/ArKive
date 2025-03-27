@@ -1,0 +1,17 @@
+.jua-regular {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+
+    min-height: 100vh;
+    margin: 1.5rem;
+    padding: 1.5rem;
+    background-color: black;
+}
